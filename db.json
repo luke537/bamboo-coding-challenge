@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1, "firstName": "Luke", "lastName": "Ryan", 
+      "password": "pass123", "balance": 600.0, 
+      "transactions": [{"otherId": 2, "type": "receive", "amount": 500.0}]
+    },
+    {
+      "id": 2, "firstName": "John", "lastName": "Doe",
+      "password": "pass123", "balance": 100.0, 
+      "transactions": [{"otherId": 1, "type": "send", "amount": 500.0}]
+    }
+  ]
+}
