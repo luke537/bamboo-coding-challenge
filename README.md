@@ -1,7 +1,7 @@
 # bamboo-coding-challenge
 
 ## To run:
-cd into bamboo-coding-challenge and then npm start 
+cd into bamboo-coding-challenge and then run npm start 
 
 There are two users that are set-up already on the app. You can log in with either:
 ### User 1:
